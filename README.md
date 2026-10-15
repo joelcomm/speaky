@@ -2,6 +2,8 @@
 
 A free, Duolingo-style Spanish course that runs in your browser and installs on iPhone and Mac. No account, no ads, no subscription. Progress is stored on your device.
 
+**Live app:** https://joelcomm.github.io/speaky/. Every push to `main` rebuilds and republishes it automatically.
+
 ## What's inside
 
 - **Course:** Latin American Spanish in 4 sections, from total beginner (A1) to upper intermediate (B2). Units are made of lessons, each lesson has grammar tips, and each unit ends with a short story.
